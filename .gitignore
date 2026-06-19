@@ -29,3 +29,7 @@ dist-ssr
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Credenciais
+docs/db-password.txt
+docs/github-push-token.txt
