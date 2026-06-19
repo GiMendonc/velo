@@ -31,5 +31,6 @@ dist-ssr
 /playwright/.auth/
 
 # Credenciais
+/docs/
 docs/db-password.txt
 docs/github-push-token.txt
